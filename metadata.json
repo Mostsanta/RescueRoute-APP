@@ -1,0 +1,7 @@
+{
+  "name": "RescueRoute: Emergency First Aid Assistant",
+  "description": "A comprehensive emergency first aid guide for drivers, providing state-specific legal advice and medical instructions for various scenarios using only car kits and improvised materials.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
